@@ -2313,7 +2313,7 @@ __metadata:
     "@azure/ms-rest-js": ^2.6.2
     "@azure/ms-rest-nodeauth": ^3.1.1
     "@cloud-carbon-footprint/common": ^1.9.0
-    "@cloud-carbon-footprint/core": ^0.17.0
+    "@cloud-carbon-footprint/core": ^0.17.1
     "@google-cloud/secret-manager": ^3.10.1
     "@types/jest": ^27.4.0
     "@types/jest-when": ^3.5.0
@@ -2476,7 +2476,7 @@ __metadata:
   languageName: unknown
   linkType: soft
 
-"@cloud-carbon-footprint/core@^0.17.0, @cloud-carbon-footprint/core@workspace:packages/core":
+"@cloud-carbon-footprint/core@^0.17.0, @cloud-carbon-footprint/core@^0.17.1, @cloud-carbon-footprint/core@workspace:packages/core":
   version: 0.0.0-use.local
   resolution: "@cloud-carbon-footprint/core@workspace:packages/core"
   dependencies:
